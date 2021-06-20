@@ -2,6 +2,10 @@
 
 I'm a first year front-end student who loves being creative. 
 
+I'm 21 years old, study at Noroff in Oslo and want to continue studying relevant subjects to the IT world.
+
+As of right now all I have done are school projects, but I look forward to develope both pet-projects and sites for others in the future. 
+
 #### Front-end
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
